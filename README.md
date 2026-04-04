@@ -2,7 +2,7 @@
 
 AI Engineering student at Unisinos · Backend & Web Developer
 Building things with Python · Java · C/C++ · JavaScript
-📍 São Leopoldo, Brasil  |  🇺🇸 Advanced English
+📍 Brasil  |  🇺🇸 Advanced English
 🔗 linkedin.com/in/joão-miltzarek
 
 ---
