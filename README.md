@@ -1,31 +1,76 @@
-# Hi, I'm João Miltzarek 👋
+<div align="center">
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=João%20Miltzarek&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=AI%20Engineering%20·%20Backend%20·%20Web%20Dev&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
-AI Engineering student at Unisinos · Backend & Web Developer
-Building things with Python · Java · C/C++ · JavaScript
-📍 Brasil  |  🇺🇸 Advanced English
-🔗 linkedin.com/in/joão-miltzarek
+<a href="https://linkedin.com/in/joão-miltzarek-21b56432b">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+&nbsp;
+<img src="https://img.shields.io/badge/Brasil-🇧🇷-009C3B?style=for-the-badge"/>
+&nbsp;
+<img src="https://img.shields.io/badge/English-Advanced-3178C6?style=for-the-badge"/>
 
----
+<br/><br/>
 
-## 🛠 Stack
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=AI+Engineering+Student+%40+Unisinos;Backend+%26+Web+Developer;4%2B+years+of+freelance+experience;Building+with+Python+%C2%B7+Java+%C2%B7+JS;Exploring+ML+%26+Neural+Networks" alt="Typing SVG" />
+</a>
 
-**Languages:** Python · Java · C · C++ · JavaScript · HTML · CSS
-**Tools:** Figma · Adobe Premiere · Photoshop · Git
-**Currently learning:** Machine Learning · APIs REST · Neural Networks
-
----
-
-## 🚀 What I'm working on
-
-- 🤖 Estudando ML e redes neurais na graduação em IA
-- 💻 Desenvolvendo projetos pessoais em Python
-- 🌐 Background de 4+ anos em desenvolvimento web freelancer
+</div>
 
 ---
 
-## 📬 Contact
+## ⚡ Tech Stack
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-João_Miltzarek-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/joão-miltzarek-21b56432b)
-</p>
+<div align="center">
+
+### 💻 Languages
+<img src="https://skillicons.dev/icons?i=python,java,c,cpp,js,html,css&theme=dark" />
+
+### 🛠 Tools & Platforms
+<img src="https://skillicons.dev/icons?i=git,github,figma,vscode,photoshop,pr&theme=dark" />
+
+### 🧠 Currently Learning
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,fastapi,sklearn&theme=dark" />
+
+</div>
+
+---
+
+## 🚀 What I'm Building
+
+```python
+joao = {
+    "role":       "AI Engineering Student @ Unisinos",
+    "focus":      ["Machine Learning", "Neural Networks", "REST APIs"],
+    "background": "4+ years freelance web development",
+    "projects":   "Personal Python projects & AI experiments",
+    "mindset":    "Ship fast. Learn faster.",
+}
+```
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=joaomiltzarek&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=ffffff&count_private=true"/>
+&nbsp;&nbsp;
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaomiltzarek&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=ffffff"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=joaomiltzarek&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa" />
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
+
+</div>
