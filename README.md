@@ -54,15 +54,13 @@ joao = {
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=JoaoMiltzarek&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=ffffff&count_private=true&cache_seconds=1800"/>
-&nbsp;&nbsp;
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoMiltzarek&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=ffffff&cache_seconds=1800"/>
+<img src="https://streak-stats.demolab.com?user=JoaoMiltzarek&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa" />
 
 </div>
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=JoaoMiltzarek&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=JoaoMiltzarek&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=a78bfa&line=a78bfa&point=ffffff&area=true&area_color=a78bfa" width="95%"/>
 
 </div>
 
