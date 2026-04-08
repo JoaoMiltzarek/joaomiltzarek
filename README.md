@@ -45,7 +45,6 @@ joao = {
     "focus":      ["Machine Learning", "Neural Networks", "REST APIs"],
     "background": "4+ years freelance web development",
     "projects":   "Personal Python projects & AI experiments",
-    "mindset":    "Ship fast. Learn faster.",
 }
 ```
 
